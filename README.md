@@ -1,8 +1,7 @@
 # Walmart Chatbot Guardrail Evaluation
 
-<img src="IMG_8226.PNG" width="50%">
 <img src="IMG_8227.PNG" width="50%">
-
+<img src="IMG_8226.PNG" width="50%">
 
 This project evaluates the behavior of Walmart’s grocery assistant chatbot to understand how effectively it enforces domain guardrails, intent routing, and topic boundaries. The study tests mixed-domain queries (e.g., groceries + unrelated questions) to observe whether the assistant stays focused on retail-specific topics or responds off-domain. Screenshots, observations, findings, and recommendations are included.
 
