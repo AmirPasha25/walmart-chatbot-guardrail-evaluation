@@ -85,10 +85,10 @@ To improve guardrail performance:
 
 ## 🧩 Future Work
 
-- Quantitative scoring for intent classification accuracy
-- Automated testing with multiple random user prompts
-- Comparison of retail chatbots from multiple brands
-- Development of a guardrail testing framework
+	•	Quantitative evaluation of intent classification accuracy
+	•	Automated stress testing using diverse, randomized user prompts
+	•	Cross-platform comparison of retail chatbots across multiple brands
+	•	Design and implementation of a scalable guardrail testing framework
 
 ---
 
