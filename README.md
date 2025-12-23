@@ -44,10 +44,10 @@ Each screenshot illustrates how the chatbot:
 
 ## 🔎 Key Findings
 
-- The chatbot handled grocery-related requests correctly and efficiently
-- It answered general knowledge questions (e.g., science queries)
-- It also responded to political questions, which are typically out of retail domain scope
-- This indicates that domain guardrails can be strengthened to avoid off-topic drift
+	•	The chatbot accurately and efficiently handled grocery-related requests
+	•	It also responded to general knowledge queries, such as science-related questions
+	•	The system generated responses to political questions, which fall outside the intended retail domain
+	•	This behavior suggests that domain guardrails should be reinforced to prevent off-topic drift and ensure stricter domain adherence
 
 ---
 
