@@ -54,9 +54,9 @@ Each screenshot illustrates how the chatbot:
 ## ⚠️ Why This Matters
 
 Retail chatbots are expected to:
-- Stay within business-specific domain
-- Avoid sensitive or political content
-- Maintain neutrality, safety, and compliance
+	•	Operate strictly within the defined business domain
+	•	Refrain from generating sensitive or political content
+	•	Ensure neutrality, safety, and regulatory compliance
 
 Weak intent routing can lead to:
 - Incorrect domain behavior
