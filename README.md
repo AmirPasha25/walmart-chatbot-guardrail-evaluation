@@ -59,9 +59,9 @@ Retail chatbots are expected to:
 	•	Ensure neutrality, safety, and regulatory compliance
 
 Weak intent routing can lead to:
-- Incorrect domain behavior
-- Regulatory risks
-- Brand or CX inconsistencies
+	•	Improper domain adherence
+	•	Potential regulatory exposure
+	•	Brand and customer experience inconsistencies
 
 This evaluation highlights the importance of AI safety and domain restrictions in customer-facing environments.
 
