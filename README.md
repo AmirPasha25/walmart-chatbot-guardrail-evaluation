@@ -36,9 +36,9 @@ The goal was to measure:
 (Insert screenshots demonstrating chatbot conversations here)
 
 Each screenshot illustrates how the chatbot:
-- Responded correctly to grocery-related tasks
-- Handled unrelated or knowledge-based questions
-- Provided political information, indicating boundary slippage
+	•	Correctly responded to grocery-related requests
+	•	Appropriately handled unrelated or general knowledge queries
+	•	Exposed boundary leakage by providing political information
 
 ---
 
