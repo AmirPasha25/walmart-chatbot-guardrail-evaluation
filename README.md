@@ -9,19 +9,19 @@ This project evaluates the behavior of Walmart’s grocery assistant chatbot to 
 
 ## 📌 Objective
 
-- Analyze guardrail strength in a real-world retail chatbot
-- Test mixed-domain queries to assess intent routing
-- Identify how the system handles off-topic or general knowledge questions
-- Provide insights that improve domain enforcement and user safety
+	•	Evaluate the effectiveness of guardrails in a production-grade retail chatbot
+	•	Assess intent-routing accuracy using mixed-domain user queries
+	•	Analyze system behavior when handling off-topic or general knowledge requests
+	•	Derive actionable insights to strengthen domain control and enhance user safety
 
 ---
 
 ## 🧪 Test Methodology
 
 The chatbot was evaluated using:
-- Standard grocery/product requests
-- Combined queries involving groceries and general knowledge
-- Off-domain questions (e.g., science or political queries)
+	•	Standard grocery and product-related requests
+	•	Hybrid queries combining grocery intents with general knowledge
+	•	Fully off-domain queries, such as science or political questions
 
 The goal was to measure:
 1. **Intent Classification Accuracy**
