@@ -19,9 +19,9 @@ This project evaluates the behavior of Walmart’s grocery assistant chatbot to 
 ## 🧪 Test Methodology
 
 The chatbot was evaluated using:
-	•	Standard grocery and product-related requests
-	•	Hybrid queries combining grocery intents with general knowledge
-	•	Fully off-domain queries, such as science or political questions
+	•	Standard grocery and product-related requests.
+	•	Hybrid queries combining grocery intents with general knowledge.
+	•	Fully off-domain queries, such as science or political questions.
 
 The goal was to measure:
 1. **Intent Classification Accuracy**
