@@ -10,7 +10,7 @@ This project evaluates the behavior of Walmart’s grocery assistant chatbot to 
 ## 📌 Objective
 
 	•	Evaluate the effectiveness of guardrails in a production-grade retail chatbot.
-	•	Assess intent-routing accuracy using mixed-domain user queries
+	•	Assess intent-routing accuracy using mixed-domain user queries.
 	•	Analyze system behavior when handling off-topic or general knowledge requests
 	•	Derive actionable insights to strengthen domain control and enhance user safety
 
